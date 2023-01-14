@@ -2,7 +2,7 @@
 ### Centro Paula Souza - Fatec Ferraz - Curso de Análise e Desenvolvimento de Sistemas
 ### Disciplina – Programação Web – Prof. Edson Saraiva de Almeida
 ### Grupo 9
-thalles shinji rocha sato
+Thalles Shinji Rocha Sato
 ### Backlog do produto
 - REQ01 – Cadastrar Livro
 Como – atendente da biblioteca
